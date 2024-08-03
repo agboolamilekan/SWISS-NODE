@@ -1,2 +1,2 @@
-# SWISS-NODE
+# Swisstronik 1
 TRYING NODES
